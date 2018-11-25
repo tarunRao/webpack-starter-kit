@@ -1,1 +1,5 @@
-console.log('ss');
+const foo = () => {
+    console.log('ss');
+}
+
+foo();
