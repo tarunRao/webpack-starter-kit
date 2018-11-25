@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "webpack-starter-kit",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack4, babel, sass, prod & dev config",
   "private": true,
   "scripts": {
     "build:prod": "webpack --config webpack.config.prod.js",
